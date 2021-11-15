@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-a student of Sjtu,a menber of Robomaster  
-Code for fun,Code to Play  
+Student of NTU, Singapore
+
+Major in EEE
 Blogs:  
 ![Github Status](https://github-readme-stats.vercel.app/api?username=SiyangShao&count_private=true)
 
