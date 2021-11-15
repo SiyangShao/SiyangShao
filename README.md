@@ -18,7 +18,7 @@ Student of NTU, Singapore
 
 Major in EEE
 
-[Personal Blog](siyangshao.github.io)
+[Personal Blog](https://siyangshao.github.io/)
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=SiyangShao&count_private=true)
 
