@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 Student of NTU, Singapore
 
 Major in EEE
-Blogs:  
 ![Github Status](https://github-readme-stats.vercel.app/api?username=SiyangShao&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyangShao&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
