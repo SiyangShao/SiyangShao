@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+a student of Sjtu,a menber of Robomaster  
+Code for fun,Code to Play  
+Blogs:  
+![Github Status](https://github-readme-stats.vercel.app/api?username=SiyangShao&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyangShao&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
