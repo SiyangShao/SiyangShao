@@ -1,4 +1,4 @@
-### Hi there 👋
+### Abut Me
 
 <!--
 **SiyangShao/SiyangShao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Student of NTU, Singapore
+Student of NTUsg, class of 2025
 
-Major in EEE
+Major in Computer Engineering (Bachelor of Engineering)
+
+- 📫 Contact info
+  - Telegram: https://t.me/siyangshao
+  - Email: siyang.shao at outlook.com
+  - School Email: shao0054 at e.ntu.edu.sg
+- 🌱 Currently learning CS
 
 [Personal Blog](https://siyangshao.github.io/)
 
