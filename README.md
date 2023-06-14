@@ -22,9 +22,7 @@ Major in Computer Engineering (Bachelor of Engineering)
   - Telegram: https://t.me/siyangshao
   - Email: siyang.shao at outlook.com
   - School Email: shao0054 at e.ntu.edu.sg
-- 🌱 Currently learning CS
 
-[Personal Blog](https://siyangshao.github.io/)
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=SiyangShao&count_private=true)
 
