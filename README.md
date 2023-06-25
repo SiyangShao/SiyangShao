@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Github Status](https://github-readme-stats.vercel.app/api?username=SiyangShao&count_private=true)
 -->
 Student of NTUsg, class of 2025
 
@@ -23,7 +24,5 @@ Major in Computer Engineering (Bachelor of Engineering)
   - Email: siyang.shao at outlook.com
   - School Email: shao0054 at e.ntu.edu.sg
 
-
-# ![Github Status](https://github-readme-stats.vercel.app/api?username=SiyangShao&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyangShao&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
