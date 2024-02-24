@@ -1,28 +1,22 @@
-### Abut Me
-
-<!--
-**SiyangShao/SiyangShao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Github Status](https://github-readme-stats.vercel.app/api?username=SiyangShao&count_private=true)
--->
-Student of NTUsg, class of 2025
-
-Major in Computer Engineering (Bachelor of Engineering)
-
-- 📫 Contact info
+### About Me
+- Academic Background
+  - Ph.D. student in Computer Science, GaTech, starting from Aug 2025
+  - B.Eng. in Computer Engineering, NTUsg (2021–2025)
+- Contact info
   - Telegram: https://t.me/siyangshao
   - Email: siyang.shao at outlook.com
-  - School Email: shao0054 at e.ntu.edu.sg
-
+- Research Interests
+  - Distributed Systems
+  - LLM Infrastructure
+- Internship Experience
+  - Jane Street as Software Engineer Intern in Hong Kong, May 2025 - Aug 2025
+  - Tiktok as Software Engineer Intern in Singapore, Jan 2024 - May 2024
+- Programming Languages
+  - `C++ / Golang / Python / OCaml`
+- Competitive Programming
+  - max. Ranked 2nd in the Asia Pacific Regional Contest
+  - ICPC Profile: https://icpc.global/ICPCID/B15T259WIX3C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyangShao&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=SiyangShao&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
