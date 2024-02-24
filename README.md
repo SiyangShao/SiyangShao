@@ -24,5 +24,6 @@ Major in Computer Engineering (Bachelor of Engineering)
   - Email: siyang.shao at outlook.com
   - School Email: shao0054 at e.ntu.edu.sg
 
+Currently finding research/intern opportunities. I can coding using C++/Golang/Python. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyangShao&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
