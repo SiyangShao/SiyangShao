@@ -1,4 +1,4 @@
-### Abut Me
+### About Me
 
 <!--
 **SiyangShao/SiyangShao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,11 @@ Major in Computer Engineering (Bachelor of Engineering)
   - Telegram: https://t.me/siyangshao
   - Email: siyang.shao at outlook.com
   - School Email: shao0054 at e.ntu.edu.sg
+- 💬 Research interest
+  - Computer System
+  - Distributed System
+  - LLM inference
 
-Currently finding research/intern opportunities. I can coding using C++/Golang/Python. 
+Currently finding research positions (PhD, RA, MPhil, etc.) beginning from 25Fall. I can code using C++/Golang/Python and have a solid foundation in algo.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyangShao&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
