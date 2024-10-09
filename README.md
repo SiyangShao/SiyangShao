@@ -31,3 +31,5 @@ Major in Computer Engineering (Bachelor of Engineering)
 I’m currently finding research positions (PhD, RA, MPhil, etc.) beginning from 25Fall. I can code using C++/Golang/Python and have a solid foundation in algo.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyangShao&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=SiyangShao&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
