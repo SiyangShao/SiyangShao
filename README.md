@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Github Status](https://github-readme-stats.vercel.app/api?username=SiyangShao&count_private=true)
 -->
-Student of NTUsg, class of 2025
+Student of NTUsg, class of 2025.
+
+<details>
+  <summary>I'm also a Retired Competitive Programmer</summary>
+
+- max. Ranked 2 in Asia Pacific Regional Contest
+
+</details>
 
 Major in Computer Engineering (Bachelor of Engineering)
 
@@ -28,7 +35,19 @@ Major in Computer Engineering (Bachelor of Engineering)
   - Distributed System
   - LLM inference
 
-I’m currently finding research positions (PhD, RA, MPhil, etc.) beginning from 25Fall. I can code using C++/Golang/Python and have a solid foundation in algo.
+I’m currently finding research positions (PhD, RA, MPhil, etc.) beginning from 25Fall. 
+
+I'm also open to all full-time working positions beginning in Sep 2025.
+
+I can code using C++/Golang/Python and have a solid foundation in algo.
+
+<details>
+  <summary>My Previous Internship Experience</summary>
+
+- Tiktok as SRE (but do dev work), from Jan to May 2024 in Singapore
+- Jane Street as Software Engineer (expected), from May to Aug 2025 in Hong Kong
+
+</details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyangShao&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
