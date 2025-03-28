@@ -1,50 +1,33 @@
 ### About Me
 
-<!--
-**SiyangShao/SiyangShao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Github Status](https://github-readme-stats.vercel.app/api?username=SiyangShao&count_private=true)
--->
-Student of NTUsg, class of 2025.
-
-<details>
-  <summary>I'm also a Retired Competitive Programmer</summary>
-
-- max. Ranked 2 in Asia Pacific Regional Contest
-
-</details>
-
-Major in Computer Engineering (Bachelor of Engineering)
-
+- 🎓 Academic Background
+  - Bachelor of Engineering in Computer Engineering
+  - Nanyang Technological University | Expected Graduation: Jun 2025
 - 📫 Contact info
   - Telegram: https://t.me/siyangshao
   - Email: siyang.shao at outlook.com
   - School Email: shao0054 at e.ntu.edu.sg
+  - Calendar Link: [Lark Link](https://sjkcigu9rlt.sg.larksuite.com/scheduler/81d2e0a495f5be54)
 - 💬 Research interest
   - Computer System
   - Distributed System
   - LLM inference
 
-I’m currently finding research positions (PhD, RA, MPhil, etc.) beginning from 25Fall. 
-
-I'm also open to all full-time working positions beginning in Sep 2025.
 
 I can code using C++/Golang/Python and have a solid foundation in algo.
 
 <details>
+  <summary>I'm also a Retired Competitive Programmer</summary>
+
+- max. Ranked 2nd in the Asia Pacific Regional Contest
+- ICPC Profile: https://icpc.global/ICPCID/B15T259WIX3C
+
+</details>
+
+<details>
   <summary>My Previous Internship Experience</summary>
 
-- Tiktok as SRE (but do dev work), from Jan to May 2024 in Singapore
+- TikTok as SRE (but do dev work), from Jan to May 2024 in Singapore
 - Jane Street as Software Engineer (expected), from May to Aug 2025 in Hong Kong
 
 </details>
