@@ -1,7 +1,7 @@
 ### About Me
 
 - Academic Background
-  - B.Eng. in Computer Engineering, NTUsg (2021–2024)
+  - B.Eng. in Computer Engineering, NTUsg (2021–2025)
 - Contact info
   - Telegram: https://t.me/siyangshao
   - Email: siyang.shao at outlook.com
