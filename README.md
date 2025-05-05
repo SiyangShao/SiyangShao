@@ -1,17 +1,12 @@
 ### About Me
 
-- 🎓 Academic Background
-  - Bachelor of Engineering in Computer Engineering
-  - Nanyang Technological University | Expected Graduation: Jun 2025
-- 📫 Contact info
+- Academic Background
+  - B.Eng. in Computer Engineering, NTUsg (2021–2024)
+- Contact info
   - Telegram: https://t.me/siyangshao
   - Email: siyang.shao at outlook.com
   - School Email: shao0054 at e.ntu.edu.sg
   - Calendar Link: [Lark Link](https://sjkcigu9rlt.sg.larksuite.com/scheduler/81d2e0a495f5be54)
-- 💬 Research interest
-  - Computer System
-  - Distributed System
-  - LLM inference
 
 
 I can code using C++/Golang/Python and have a solid foundation in algo.
@@ -28,7 +23,7 @@ I can code using C++/Golang/Python and have a solid foundation in algo.
   <summary>My Previous Internship Experience</summary>
 
 - TikTok as SRE (but do dev work), from Jan to May 2024 in Singapore
-- Jane Street as Software Engineer (expected), from May to Aug 2025 in Hong Kong
+- Jane Street as Software Engineer, from May to Aug 2025 in Hong Kong
 
 </details>
 
