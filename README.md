@@ -5,11 +5,9 @@
 - Contact info
   - Telegram: https://t.me/siyangshao
   - Email: siyang.shao at outlook.com
-  - School Email: shao0054 at e.ntu.edu.sg
-  - Calendar Link: [Lark Link](https://sjkcigu9rlt.sg.larksuite.com/scheduler/81d2e0a495f5be54)
 
 
-I can code using C++/Golang/Python and have a solid foundation in algo.
+I can code using `C++ / Golang / Python / OCaml` and have a solid foundation in algo.
 
 <details>
   <summary>I'm also a Retired Competitive Programmer</summary>
