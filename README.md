@@ -18,9 +18,11 @@
   - ICPC Profile: https://icpc.global/ICPCID/B15T259WIX3C
  
 <details>
-  <summary> Resume </summary>
-- [English Version](https://siyangshao.github.io/resume/main.pdf)
-- [中文版本](https://siyangshao.github.io/resume/main_cn.pdf)
+  <summary>Resume</summary>
+
+  - [English Version](https://siyangshao.github.io/resume/main.pdf)
+  - [中文版本](https://siyangshao.github.io/resume/main_cn.pdf)
+
 </details>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyangShao&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
