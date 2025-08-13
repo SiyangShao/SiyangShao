@@ -1,10 +1,11 @@
 ### About Me
 - Academic Background
-  - Ph.D. student in Computer Science, GaTech, starting from Aug 2025
-  - B.Eng. in Computer Engineering, NTUsg (2021–2025)
+  - Ph.D. student in Computer Science, [GaTech](https://www.gatech.edu/), Aug 2025 - now
+  - B.Eng. in Computer Engineering, [NTUsg](https://www.ntu.edu.sg/), Aug 2021 - Jun 2025
 - Contact info
   - Telegram: https://t.me/siyangshao
   - Email: siyang.shao at outlook.com
+  - School Email: sshao67 at gatech.edu
 - Research Interests
   - Distributed Systems
   - LLM Infrastructure
