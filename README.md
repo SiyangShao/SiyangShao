@@ -5,7 +5,7 @@
 - Contact info
   - Telegram: https://t.me/siyangshao
   - Email: siyang.shao at outlook.com
-  - School Email: sshao67 at gatech.edu
+  - School Email: sshao at gatech.edu
 - Research Interests
   - Distributed Systems
   - LLM Infrastructure
