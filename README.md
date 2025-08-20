@@ -6,9 +6,6 @@
   - Telegram: https://t.me/siyangshao
   - Email: siyang.shao at outlook.com
   - School Email: sshao at gatech.edu
-- Research Interests
-  - Distributed Systems
-  - LLM Infrastructure
 - Internship Experience
   - Jane Street as Software Engineer Intern in Hong Kong, May 2025 - Jul 2025
   - Tiktok as Software Engineer Intern in Singapore, Jan 2024 - May 2024
